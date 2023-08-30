@@ -1,7 +1,7 @@
 # Hotel-Room-Reservation-System
 The Hotel Room Reservation System, developed using PHP,HTML+CSS, SQL and JavaScript, allows users to conveniently book, modify, or cancel room reservations at Alpha Royal Hotel via the Internet.
 
-Here's a breakdown of each component and its role within the system:
+## Softwares used -
 
 **PHP:** PHP is a server-side scripting language that handles the dynamic aspects of the system. It's responsible for processing user requests, interacting with the database, and generating dynamic content to be displayed in the web browser. In the context of this reservation system, PHP manages tasks like validating user input, checking room availability, and processing reservation transactions.
 
@@ -11,7 +11,7 @@ Here's a breakdown of each component and its role within the system:
 
 **JavaScript:** JavaScript is a client-side scripting language that enhances the interactivity of web pages. It's used to add dynamic behavior to the user interface. In this system, JavaScript might be used to perform tasks like displaying real-time availability information, validating user input before submission, and providing instant feedback to users when they're making or modifying reservations.
 
-The main functionality of the system can be summarized as follows:
+## Main Functionalities -
 
 **Booking Rooms:** Users can search for available rooms based on their preferences, such as check-in and check-out dates, room type, and number of guests. The PHP backend interacts with the SQL database to retrieve available room options, which are then presented to the user through the HTML+CSS interface.
 
